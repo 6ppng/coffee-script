@@ -1,0 +1,7 @@
+{
+    "coffeelinter.enable": true,
+    "[coffeescript]": {
+        "diffEditor.ignoreTrimWhitespace":false,
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    }
+}

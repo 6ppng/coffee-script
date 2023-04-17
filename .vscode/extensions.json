@@ -1,5 +1,7 @@
 {
     "recommendations": [
-        "lkytal.coffeelinter"
+        "VisualStudioExptTeam.intellicode-api-usage-examples",
+        "lkytal.coffeelinter",
+        "esbenp.prettier-vscode"
     ]
 }
