@@ -1,5 +1,5 @@
 # this is 🍛
-curry = (f, x) -> (...y) -> f x, ...y
+curry = (f, x) -> (y...) -> f x, y...
 
 # ---
 a = console.assert
