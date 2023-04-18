@@ -12,5 +12,6 @@
             "strings": true
         },
         "editor.suggest.insertMode": "replace"
-    }
+    },
+    "code-runner.enableAppInsights": false
 }

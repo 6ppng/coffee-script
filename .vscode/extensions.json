@@ -1,7 +1,8 @@
 {
     "recommendations": [
-        "VisualStudioExptTeam.intellicode-api-usage-examples",
         "lkytal.coffeelinter",
-        "esbenp.prettier-vscode"
+        "esbenp.prettier-vscode",
+        "formulahendry.code-runner",
+        "phil294.coffeesense"
     ]
 }
