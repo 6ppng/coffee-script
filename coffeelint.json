@@ -1,4 +1,5 @@
- {
+{
+  "comment" : "http://www.coffeelint.org/#:~:text=coffeelint.json%20file.-,Options,-By%20default%2C%20CoffeeLint",
   "arrow_spacing": {
       "level": "error"
   },
